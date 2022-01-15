@@ -1,6 +1,6 @@
-<strong>Olá, Itamar Joire aqui</strong> 👋
+### Olá, Itamar Joire aqui 👋
  
-<p>Sou desenvolvedor que ama codificação, trabalhar em equipe e participar de todo processo criativo de soluções que agreguem valor.</p></br>
+* <p>Sou desenvolvedor que ama codificação, trabalhar em equipe e participar de todo processo criativo de soluções que agreguem valor.</p></br>
 
 💻 Tecnologias que utilizo
 <div style="display: inline_block">
