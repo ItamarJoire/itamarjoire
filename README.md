@@ -1,9 +1,9 @@
-### Olá, Itamar Joire aqui 👋
+#### Olá, Itamar Joire aqui 👋
+<p>Sou desenvolvedor front-end ama codificação, trabalhar em equipe</br> e participar
+de todo processo criativo de soluções que agreguem valor.</p>
 
-<p>Sou desenvolvedor que ama codificação, trabalhar em equipe e participar de todo processo criativo de soluções que agreguem valor.</p></br>
-
-Tecnologias que utilizo 💻 
-<div style="display: inline_block">
+Tecnologias que utilizo:
+<div style="display: block">
   <img align="center" alt="Itamar-HTML" height="20" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Itamar-CSS" height="20" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Itamar-Js" height="20" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
