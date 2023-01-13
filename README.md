@@ -1,5 +1,5 @@
 #### Olá, Itamar Joire aqui 👋
-<p>Sou desenvolvedor front-end ama codificação, trabalhar em equipe</br> e participar
+<p>Sou desenvolvedor front-end ama que codificação, trabalhar em equipe</br> e participar
 de todo processo criativo de soluções que agreguem valor.</p>
 
 Tecnologias que utilizo:
